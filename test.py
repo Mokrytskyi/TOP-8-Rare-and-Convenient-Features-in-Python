@@ -29,7 +29,7 @@ text = "Hello World"
 a['execute'](text)
 
 
-4: #this fir me cool too :) work with dict.
+#4: #this fir me cool too :) work with dict.
 
 class Test:
 	def __init__(self):
